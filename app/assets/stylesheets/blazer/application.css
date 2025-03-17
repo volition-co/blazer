@@ -11,7 +11,7 @@ pre {
   border: none;
   border-radius: 0;
   text-wrap: auto;
-  word-break: auto-phrase;
+  word-break: normal;
 }
 
 body {
