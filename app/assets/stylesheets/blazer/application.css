@@ -12,6 +12,7 @@ pre {
   border-radius: 0;
   text-wrap: auto;
   word-break: normal;
+  overflow-wrap: anywhere;
 }
 
 body {
