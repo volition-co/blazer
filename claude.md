@@ -5,15 +5,17 @@
 Blazer is a Ruby on Rails engine that enables users to explore their data with SQL. It provides an intuitive interface for creating charts and dashboards, and sharing them with teams. The project is battle-tested at Instacart and supports multiple database backends.
 
 **Key Features:**
-- Multiple data sources support (PostgreSQL, MySQL, Redshift, BigQuery, Athena, and 20+ more)
-- SQL query interface with variables
-- Automatic chart generation from query results
-- Dashboard creation and management
-- Data checks and email alerts
-- Query auditing and caching
-- Cohort analysis
-- Anomaly detection and forecasting
-- CSV upload support
+- **Multiple data sources** - PostgreSQL, MySQL, Redshift, BigQuery, Athena, and 20+ more
+- **Variables** - Run the same queries with different values
+- **Automatic charts** - Line, column, pie, scatter, and map visualizations
+- **Dashboards** - Combine multiple queries into shareable dashboards
+- **Checks & alerts** - Get emailed when bad data appears
+- **Audits** - All queries are tracked
+- **Security** - Works with your authentication system
+- **Caching** - Automatic result caching for improved performance
+- **Cohort analysis** - Analyze user retention and behavior over time
+- **Anomaly detection & forecasting** - Built-in data science features
+- **CSV uploads** - Create database tables from CSV files
 
 ## Technology Stack
 
