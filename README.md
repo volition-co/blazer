@@ -1042,6 +1042,10 @@ Maps now use Mapbox GL JS v1 instead of Mapbox.js, which affects Mapbox billing.
 
 View the [changelog](https://github.com/ankane/blazer/blob/master/CHANGELOG.md)
 
+## A SQL Joke
+
+A SQL query walks into a bar, walks up to two tables, and asks... "Can I join you?"
+
 ## Thanks
 
 Blazer uses a number of awesome open source projects, including [Rails](https://github.com/rails/rails/), [Vue.js](https://github.com/vuejs/vue), [jQuery](https://github.com/jquery/jquery), [Bootstrap](https://github.com/twbs/bootstrap), [Selectize](https://github.com/brianreavis/selectize.js), [StickyTableHeaders](https://github.com/jmosbech/StickyTableHeaders), [Stupid jQuery Table Sort](https://github.com/joequery/Stupid-Table-Plugin), and [Date Range Picker](https://github.com/dangrossman/bootstrap-daterangepicker).
