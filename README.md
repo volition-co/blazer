@@ -12,6 +12,8 @@ Blazer is also available as a [Docker image](https://github.com/ankane/blazer-do
 
 [![Build Status](https://github.com/ankane/blazer/actions/workflows/build.yml/badge.svg)](https://github.com/ankane/blazer/actions)
 
+> Why do SQL developers never get lost? Because they always know how to find their way with a good `SELECT`!
+
 ## Features
 
 - **Multiple data sources** - PostgreSQL, MySQL, Redshift, and [many more](#full-list)
